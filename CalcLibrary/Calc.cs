@@ -12,7 +12,7 @@ namespace CalcLibrary
         public static int Divisione(int num1, int num2)
         {
             //int divisione = num1/num2;
-            return num1 / num2;
+            return num1 / num2; 
         }
     }
 }
